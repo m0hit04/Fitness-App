@@ -14,7 +14,7 @@ const Navbar = () => {
       sx={{
         gap: { sm: "122px", xs: "40px" },
         mt: { sm: "32px", xs: "20px" },
-        justifyContent: "none",
+        justifyContent: "none"
       }}
       px="20px"
     >
